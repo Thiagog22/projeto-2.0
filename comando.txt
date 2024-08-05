@@ -1,0 +1,14 @@
+Comando
+git init
+git config --global user.name
+git config --global user.email
+
+Comandos iniciais
+git init (giti init serve para iniciar o codigo)
+git add . (git add . serve para adicionar alguma mudança no codigo principal)
+git commit -m ( git commit -m serve para relatar o que foi mudado)
+git push ( git push serve para enviar para o github)
+
+Comandos do github
+git remote add origin "link do repositori" 
+git branch -M main (Para definir a branch 'main' como principal )
